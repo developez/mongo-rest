@@ -11,6 +11,6 @@
   "license": "Unlicensed",
   "dependencies": {
     "express": "^4.12.0",
-    "express-mongo-rest": "^0.1.1"
+    "express-mongo-rest": "^0.1.3"
   }
 }
